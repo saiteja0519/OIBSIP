@@ -1,0 +1,47 @@
+.nav-bar {
+    color: #fff;
+    padding: 10px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #2b00ff;
+    margin: 2%;
+    text-align: center;
+}
+
+.menu li {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.banner {
+    background-size: cover;
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+}
+
+.banner-heading h1 {
+    font-size: 36px;
+    text-align: center;
+    color: brown;
+}
+nav ul li{
+    display:inline;
+    margin:0 10px;
+    text-align: center;
+}
+header{
+    color: crimson;
+    padding:20px;
+    text-align:center;
+    background-color: coral;
+}
+body{
+    background-color: cadetblue;
+    font-family:Arial,sans-serif;
+    text-align: center;
+    
+}
