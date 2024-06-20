@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Go Trip</title>
+</head>
+<body>
+    <header>
+        <h1>Tourism World</h1>
+    </header>
+    <section class="nav-bar">
+        <div class="logo"><h1 color:red>Go Trip</h1></div>
+        <nav>
+           <ul class="menu">
+               <li><a href="#">home</a></li>
+                <li><a href="#">tours</a></li>
+                <li><a href="#">package</a></li>
+                <li><a href="#">blog</a></li>
+                <li><a href="#">about us</a></li>
+              <li><a href="#">contact us</a></li>
+            </ul>
+        </nav>
+    </section>
+    <br>
+    <!-- Banner Section -->
+    <section class="banner">
+        <div class="banner-text-item">
+            <div class="banner-heading">
+                <h1>Find your Next tour!</h1>
+            </div>
+            <form class="form">
+                <input type="text" list="mylist" placeholder="Where would you like to go?">
+                <datalist id="mylist">
+                    <option>London</option>
+                    <option>Canada</option>
+                    <!-- Add more options as needed -->
+                </datalist>
+                <input type="date" class="date">
+                <a href="#" class="book">book</a>
+            </form>
+        </div>
+    </section>
+</body>
+</html>
+
+
+</body>
